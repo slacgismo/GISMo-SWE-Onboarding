@@ -1,7 +1,7 @@
-##General Onboarding
+## General Onboarding
 
-##Recommended Tools
+## Recommended Tools
 
-##Standards for Code
+## Standards for Code
 
-##Release Process
+## Release Process
