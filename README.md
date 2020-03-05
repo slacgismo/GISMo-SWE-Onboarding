@@ -12,6 +12,16 @@
     * Practice a pull request in the GISMo's GitHub gittraining repo
 
 ## Recommended Tools
+* Install the following on your work computer:
+    * IDE of choice
+        * Examples: [VS Code](https://code.visualstudio.com), [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12), [Atom](https://atom.io)
+    * [Python](https://www.python.org/downloads/)
+    * [Git](https://www.atlassian.com/git/tutorials/install-git)
+    * [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html)
+    * [Jupyter Notebook](https://jupyter.org/install)
+    * [Postman](https://www.postman.com/downloads/)
+    * Linter of choice
+        * Examples: [Prettier](https://prettier.io), [Pylint](https://pypi.org/project/pylint/)
 
 ## Standards for Code
 
