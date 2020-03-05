@@ -10,7 +10,6 @@
 * Recommended: 
     * Create a separate folder for GISMo on work computer
     * Practice a pull request in the GISMo's GitHub gittraining repo
-        * 
 
 ## Recommended Tools
 
