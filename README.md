@@ -6,10 +6,12 @@
 * Set up work computer configurations with SLAC IT Department
     * SLAC IT Department is located at Building 50 on the first floor.
 * Check in with points of contact to receive invitations to GISMo's Slack, GitHub and Google Drive
+    * Introduce yourself to the team on Slack :)
 * See points of contact to ensure you are receiving email invitations to team meetings as needed
 * Recommended: 
     * Create a separate folder for GISMo on work computer
     * Practice a pull request in the GISMo's GitHub gittraining repo
+    * Grab lunch with team members and chat about projects!
 
 ## Recommended Tools
 * Install the following on your work computer:
